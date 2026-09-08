@@ -1,25 +1,45 @@
 .hero-title {
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    color: #fff;
-    text-align: center;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #fff;
+  text-align: center;
 }
 
 .cta-button {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #fff;
-    background: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background: #4d5ae5;
 }
 
 .cta-button:hover,
 .cta-button:focus {
-    background: #404bbf;
+  background: #404bbf;
 }
 
 .hero-section {
-    background: #2e2f42;
+  background: #2e2f42;
+}
+.hero-section {
+  padding: 188px 0;
+  background-color: #2e2f42;
+}
+
+.hero-title {
+  max-width: 496px;
+  margin: 0 auto 48px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.cta-button {
+  display: block;
+  margin: 0 auto;
+  padding: 16px 32px;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  border: none;
 }
