@@ -6,6 +6,7 @@
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
+  margin-right: 76px;
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -50,7 +51,6 @@
 .header .container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 .header-contact-list {
   display: flex;
@@ -61,4 +61,7 @@
 .header-contact-item a {
   display: block;
   padding: 24px 0;
+}
+.header-nav {
+  margin-right: 340px;
 }
